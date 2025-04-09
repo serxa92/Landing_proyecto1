@@ -2,7 +2,7 @@
 
 Este proyecto es una réplica visual del sitio web oficial de **Nike**, desarrollada con fines educativos y para practicar habilidades de maquetación, diseño responsive y uso de recursos multimedia.
 
-<img src="assets/Mockups/Macbook-Air-proyecto1-nike.vercel.app.png" alt="mockup-mac" width="500" ><img src="assets/Mockups/iPhone-13-PRO-proyecto1-nike.vercel.app.png" alt="mockup-mac" width="150" >
+<img src="assets/Mockups/Macbook-Air-proyecto1-nike.vercel.app.png" alt="mockup-mac" width="500" ><img src="assets/Mockups/iPhone-13-PRO-127.0.0.1.png" alt="mockup-mac" width="150" >
 
 
 ## 📁 Estructura del Proyecto
