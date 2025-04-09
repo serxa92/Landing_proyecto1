@@ -2,6 +2,9 @@
 
 Este proyecto es una réplica visual del sitio web oficial de **Nike**, desarrollada con fines educativos y para practicar habilidades de maquetación, diseño responsive y uso de recursos multimedia.
 
+<img src="assets/Mockups/Macbook-Air-proyecto1-nike.vercel.app.png" alt="mockup-mac" width="650" ><img src="assets/Mockups/iPhone-13-PRO-proyecto1-nike.vercel.app.png" alt="mockup-mac" width="200" >
+
+
 ## 📁 Estructura del Proyecto
 
 - `index.html`: Página principal de la réplica.
@@ -13,8 +16,9 @@ Este proyecto es una réplica visual del sitio web oficial de **Nike**, desarrol
 - HTML5
 - CSS3
 
-## ✨ Características
 
+
+## ✨ Características
 - Diseño responsivo adaptado a móviles, tablets y escritorio.
 - Menú de navegación y secciones visuales inspiradas en Nike.
 - Uso de imágenes reales para reforzar el aspecto profesional.
@@ -24,5 +28,5 @@ Este proyecto es una réplica visual del sitio web oficial de **Nike**, desarrol
 Puedes clonar el repositorio:
 
 ```bash
-git clone https://github.com/serxa92/Landing_proyecto1.git
+git clone https://github.com/serxa92/Nike_landing.git
 
