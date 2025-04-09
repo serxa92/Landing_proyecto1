@@ -8,8 +8,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  text-align: justify;
-  direction: ltr;
+  
 }
 
 body {
@@ -449,6 +448,7 @@ li{
   .lo-mejor p{
     display: flex;
     text-align: center;
+    margin-left: 0;
   }
 
   .header-bot {
